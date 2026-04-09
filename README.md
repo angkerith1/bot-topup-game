@@ -291,5 +291,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 <p align="center">
-  Made with ❤️ by <b>AngkorCyber</b>
+  Made with ❤️ by <b>Rith</b>
 </p>
